@@ -11,4 +11,4 @@ Credits:
 
 See also:
 - https://github.com/pingw33n/rb-mods
-- https://github.com/pingw33n/openrb-338
+- https://github.com/pingw33n/OpenRB-338
